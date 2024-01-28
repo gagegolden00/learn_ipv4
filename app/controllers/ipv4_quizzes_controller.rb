@@ -1,7 +1,7 @@
 class Ipv4QuizzesController < ApplicationController
 
   def new
-
+    
   end
 
   def create
@@ -17,7 +17,7 @@ class Ipv4QuizzesController < ApplicationController
   end
 
   def index
-    
+
   end
 
 
